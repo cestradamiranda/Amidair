@@ -1,0 +1,24 @@
+http://api.sunrise-sunset.org/json
+
+Montreal
+https://api.sunrise-sunset.org/json?lat=45.501689&lng=-73.567256&date=today
+
+Mirabel weather full
+ api.openweathermap.org/data/2.5/weather?q=Mirabel,ca&APPID=40b692ad8785628b93f95e632d031111
+
+menos 4 horas from UTC
+{
+    "results": {
+        "sunrise": "9:44:02 AM",
+        "sunset": "12:16:19 AM",
+        "solar_noon": "5:00:10 PM",
+        "day_length": "14:32:17",
+        "civil_twilight_begin": "9:10:40 AM",
+        "civil_twilight_end": "12:49:41 AM",
+        "nautical_twilight_begin": "8:28:43 AM",
+        "nautical_twilight_end": "1:31:38 AM",
+        "astronomical_twilight_begin": "7:40:46 AM",
+        "astronomical_twilight_end": "2:19:34 AM"
+    },
+    "status": "OK"
+}

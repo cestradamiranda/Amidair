@@ -1,0 +1,32 @@
+.App {
+  
+}
+.App-sunrise {
+  height: 50px;
+  width: 150px;
+  float: right;
+  position: relative;
+  left: -5%;
+}
+
+.App-logo {
+  
+  height: 50px;
+  
+
+}
+
+.App-header {
+  /* background-image: url("./banner-1563536_1280.jpg"); */
+  height: 150px;
+  padding: 20px;
+   
+}
+
+.App-content {
+ font-size: large;
+  margin: auto;
+    width: 60%;
+    border: 1px solid cadetblue;
+    padding: 10px;
+}
